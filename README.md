@@ -1,4 +1,5 @@
-# Iris_Classification
+# Iris_Classification [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1xW_LP7eqA25Dg9DMJW3YCdpxdTuNfTif?usp=sharing)
+
 Iris Flower Classification using Scikit-Learn | Logistic Regression, KNN, Decision Tree &amp; SVM | Model Evaluation with Confusion Matrix &amp; F1 Score | Pickle Model Saving
 
 # Why All Models Show 100% Accuracy on the Iris Dataset
